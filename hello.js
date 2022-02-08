@@ -6,7 +6,7 @@
 	<body>
 		<script>
 		
-		console.log>("Greetings, World!");
+		console.log("Greetings, World!");
 		
 		</script>
 
